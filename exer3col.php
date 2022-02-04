@@ -2,6 +2,13 @@
 <html>
 <body>
 <?php
+
+//link to github repo on project with tommy
+echo "https://github.com/collinz007/Collins-and-Rashi.git"
+
+//link to project webpage 
+echo "file:///Users/Collins/Downloads/Collins%20and%20Rashi/HOME_PAGE1.html"
+
 //Task1
 $m=date('F');
 if ($m == "August") {
